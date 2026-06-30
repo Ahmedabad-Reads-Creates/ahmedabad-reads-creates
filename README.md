@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ahmedabad Reads <em>| Ahmedabad Creates</em></h1>
+<h1>Ahmedabad Reads | Creates</h1>
 
 <p>A quiet place to read, to create, and to simply be.</p>
 
